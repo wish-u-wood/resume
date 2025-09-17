@@ -1,0 +1,30 @@
+body {
+    font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+    line-height: 1.4;
+    margin: 24px;
+}
+
+header {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px 16px;
+    align-items: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 1.5rem;
+}
+
+.meta a {
+    margin-right: 10px;
+}
+
+h2 {
+    margin-top: 1.25rem;
+    font-size: 1.1rem;
+}
+
+ul {
+    margin: 0.25rem 0 0.75rem 1rem;
+}
